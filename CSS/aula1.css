@@ -1,0 +1,28 @@
+/* Formatação de Parágrafo */
+
+p {
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 10px;
+    text-align: center;
+}
+
+h1 {
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    margin-left: 20px;
+    text-align: center;
+}
+
+h2 {
+    color: green;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    font-weight: 650;
+    margin-left: 15px;
+    text-align: center;
+}
