@@ -1,0 +1,33 @@
+h1{
+    color: purple;
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+    margin-left: 50px;
+    height: 150px;
+}
+
+h1:hover{
+    color: blue;
+    background-color: black;
+    padding: 15px;
+}
+
+h2{
+    color: white;
+    background-color: blue;
+    text-align: center;
+    padding: 10px;
+    margin-right: 50px;
+}
+
+h2:hover{
+    color: chartreuse;
+    background-color: peru;
+    padding: 20px;
+}
+
+img{
+    height: 70px;
+    width: auto;
+}
